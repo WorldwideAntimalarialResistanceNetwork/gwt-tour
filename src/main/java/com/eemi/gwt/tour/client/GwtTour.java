@@ -27,6 +27,7 @@ import com.google.gwt.core.client.JavaScriptObject;
 import com.google.gwt.core.client.JsArray;
 import com.google.gwt.core.client.ScriptInjector;
 import com.google.gwt.dom.client.StyleInjector;
+import com.google.gwt.core.client.EntryPoint;
 
 /**
  * Main GwtTour class
@@ -34,10 +35,14 @@ import com.google.gwt.dom.client.StyleInjector;
  * @author Alain Ekambi
  * 
  */
-public class GwtTour {
+public class GwtTour implements EntryPoint {
 
     private GwtTour() {
 
+    }
+	
+    public void onModuleLoad() {
+	    
     }
     
     /**

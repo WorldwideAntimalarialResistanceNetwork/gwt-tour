@@ -3,4 +3,10 @@
   <inherits name='com.google.gwt.user.User'/>
   <script src='hopscotch-0.1.js' />
   <stylesheet src='hopscotch.css' />
+      <!-- Specify the app entry point class.                         -->
+    <entry-point class='com.eemi.gwt.tour.client.GwtTour'/>
+
+    <!-- Specify the paths for translatable code                    -->
+    <source path='client'/>
+    <source path='shared'/>
 </module>

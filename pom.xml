@@ -75,7 +75,7 @@
                 <!-- Plugin configuration. There are many available options, see
                   gwt-maven-plugin documentation at codehaus.org -->
                 <configuration>
-                    <module>>com.eemi.gwt.GwtTour</module>
+                    <module>>com.eemi.gwt.Tour</module>
                     <mode>htmlunit</mode>
                     <style>${gwt.style}</style>
                     <includes>**/Gwt*Suite.java</includes>

@@ -4,7 +4,7 @@
   <script src='hopscotch-0.1.js' />
   <stylesheet src='hopscotch.css' />
       <!-- Specify the app entry point class.                         -->
-    <entry-point class='com.eemi.gwt.tour.client.GwtTour'/>
+    <!-- <entry-point class='com.eemi.gwt.tour.client.GwtTour'/> -->
     <set-configuration-property name='xsiframe.failIfScriptTag' value='FALSE'/>
     <!-- Specify the paths for translatable code                    -->
     <source path='client'/>

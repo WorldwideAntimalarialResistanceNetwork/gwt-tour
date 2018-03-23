@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module>
   <inherits name='com.google.gwt.user.User'/>
-  <script src='hopscotch-0.1.js' />
+  <script src='hopscotch-0.1.2.min.js' />
   <stylesheet src='hopscotch.css' />
       <!-- Specify the app entry point class.                         -->
      <entry-point class='com.eemi.gwt.tour.client.GwtTour'/>

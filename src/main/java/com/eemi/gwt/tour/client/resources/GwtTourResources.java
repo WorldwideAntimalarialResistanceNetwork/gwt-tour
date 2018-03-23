@@ -8,7 +8,7 @@ public interface GwtTourResources extends ClientBundle {
     @Source("hopscotch.css")
     TextResource css();
 
-    @Source("hopscotsch-0.1.2.min.js")
+    @Source("hopscotch-0.1.2.min.js")
     TextResource js();
 
 }
